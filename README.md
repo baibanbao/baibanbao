@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@baibanbao](https://github.com/baibanbao/)
-- ☕️ My blog: https://wangpei.net
+- ☕️ My blog: https://wangpei.me
 - 👀 I’m interested in writing.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on nothing.
