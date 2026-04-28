@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [@baibanbao](https://github.com/baibanbao/)
-- ☕️ My blog: https://wangpei.me
+- ☕️ My blog: https://zhongwen.ai
 - 👀 I’m a playwright contracted with Beijing People's Art Theatre
 - 🌱 I’m currently researching writing styles.
-- 💞️ I’m looking to share how to overcome writer's blocks.
+- 💞️ I’m looking to share experience and knowledge.
 - 📫 How to reach me: leave me a message.
 - 🕊 Welcome to email me: redredpei@gmail.com
 
