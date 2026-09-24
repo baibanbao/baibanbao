@@ -1,12 +1,15 @@
-- 👋 Hi, I’m [@baibanbao](https://github.com/baibanbao/)
-- ☕️ My blog: https://zhongwen.ai
-- 👀 I’m a playwright contracted with Beijing People's Art Theatre
-- 🌱 I’m currently researching writing styles.
-- 💞️ I’m looking to share experience and knowledge.
-- 📫 How to reach me: leave me a message.
-- 🕊 Welcome to email me: redredpei@gmail.com
+### 你好，我是 baibanbao 👋
 
-<!---
-baibanbao/baibanbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+剧作家，北京人民艺术剧院签约编剧。
+我研究中文写作风格，并把写作经验做成 AI 可用的 Skill。
+
+**代表项目**
+- [x-made-easy-skill](…) — 受《Calculus Made Easy》启发的"讲明白"写作 Skill ⭐172
+- [qu-ai-wei](…) — 去 AI 味：清理中文稿件里的 AI 痕迹 ⭐49
+
+**最新文章**（自动更新）
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+**联系**
+- 项目问题：请到对应仓库提 Issue
+- 合作 / 约稿：redredpei [at] gmail.com · https://zhongwen.ai
